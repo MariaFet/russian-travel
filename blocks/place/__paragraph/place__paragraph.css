@@ -1,0 +1,14 @@
+.place__paragraph {
+  grid-column: 2;
+  font-family: 'Inter', sans-serif;
+  font-style: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #FFFFFF;
+  margin: 0;
+  margin-bottom: 26px;
+}
+
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
+}

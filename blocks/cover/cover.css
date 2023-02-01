@@ -1,0 +1,11 @@
+.cover {
+  background: #2A2C2F;
+  padding-bottom: 92px;
+  padding-right: 48px;
+  padding-left: 48px;
+  position: relative;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
