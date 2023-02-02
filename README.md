@@ -30,9 +30,4 @@
 
 Файловая система реализована согласно БЭМ.
 
-Ссылка на сайт:
-
-```
-https://mariafet.github.io/russian-travel/
-
-```
+[Ссылка на сайт "Путешествие по России"](https://mariafet.github.io/russian-travel/)
